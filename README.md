@@ -1,4 +1,4 @@
-# ESP32 BLE Gamepad Controller
+# ESP32 BLE Gaming Controller
 
 This project implements a **Bluetooth Low Energy (BLE) gamepad using an ESP32**.  
 The ESP32 acts as a wireless controller and sends joystick and button inputs to a computer using the **BLE HID gamepad profile**.
